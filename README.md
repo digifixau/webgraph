@@ -1,4 +1,4 @@
-# SEO Semantic Similarity & Harmonic Centrality Analyzer
+# SEO Semantic Similarity & Harmonic Centrality Analyzer 
 
 A Next.js application that visualizes semantic similarity between web pages using cosine similarity and harmonic centrality in an interactive force-directed network graph.
 
